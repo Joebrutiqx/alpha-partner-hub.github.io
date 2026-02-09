@@ -25,7 +25,7 @@ const CTASection = () => {
             className="text-base font-semibold gap-2 w-full sm:w-auto"
             asChild
           >
-            <a href="https://t.me/" target="_blank" rel="noopener noreferrer">
+            <a href="https://t.me/alfabank_vigodno" target="_blank" rel="noopener noreferrer">
               <MessageCircle className="h-5 w-5" />
               Telegram
             </a>
@@ -36,7 +36,7 @@ const CTASection = () => {
             className="text-base font-semibold gap-2 w-full sm:w-auto border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10 hover:text-primary-foreground"
             asChild
           >
-            <a href="https://wa.me/" target="_blank" rel="noopener noreferrer">
+            <a href="https://wa.me/79173988243" target="_blank" rel="noopener noreferrer">
               WhatsApp
               <ArrowRight className="h-5 w-5" />
             </a>
