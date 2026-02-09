@@ -27,7 +27,7 @@ const HeroSection = () => {
               className="text-base font-semibold gap-2"
               asChild
             >
-              <a href="https://t.me/" target="_blank" rel="noopener noreferrer">
+              <a href="https://t.me/alfabank_vigodno" target="_blank" rel="noopener noreferrer">
                 <MessageCircle className="h-5 w-5" />
                 Написать в Telegram
               </a>
@@ -38,7 +38,7 @@ const HeroSection = () => {
               className="text-base font-semibold gap-2 border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10 hover:text-primary-foreground"
               asChild
             >
-              <a href="https://wa.me/" target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/79173988243" target="_blank" rel="noopener noreferrer">
                 Написать в WhatsApp
                 <ArrowRight className="h-5 w-5" />
               </a>
