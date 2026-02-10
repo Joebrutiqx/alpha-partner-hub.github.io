@@ -6,7 +6,7 @@ const CTASection = () => {
   const { ref, isVisible } = useScrollAnimation();
 
   return (
-    <section id="contacts" className="py-20 md:py-28 bg-foreground text-primary-foreground">
+    <section id="contacts" className="py-20 md:py-28 text-primary-foreground animate-gradient-shift" style={{ background: "linear-gradient(-45deg, hsl(2, 87%, 54%), hsl(350, 80%, 45%), hsl(15, 90%, 50%), hsl(2, 87%, 40%))", backgroundSize: "300% 300%" }}>
       <div
         className={`container text-center max-w-2xl space-y-6 ${
           isVisible ? "animate-fade-up" : "opacity-0"
