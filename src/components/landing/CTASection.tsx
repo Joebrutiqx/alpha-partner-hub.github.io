@@ -17,10 +17,10 @@ const CTASection = () => {
         }`}
         ref={ref}
       >
-        <h2 className="text-3xl font-bold tracking-tight sm:text-4xl text-white">
+        <h2 className="text-4xl font-bold tracking-tight sm:text-5xl text-white">
           Начните зарабатывать сегодня
         </h2>
-        <p className="text-white/70 text-lg leading-relaxed">
+        <p className="text-white/80 text-xl leading-relaxed">
           Свяжитесь с нами в удобном мессенджере — расскажем подробности и поможем начать.
         </p>
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-2">

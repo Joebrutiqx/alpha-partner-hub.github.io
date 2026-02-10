@@ -13,11 +13,11 @@ const HeroSection = () => {
           <div className="inline-flex items-center rounded-full border border-primary-foreground/20 bg-primary-foreground/10 px-4 py-1.5 text-sm font-medium">
             Партнёрская программа Альфа-Банка
           </div>
-          <h1 className="text-4xl font-black tracking-tight sm:text-5xl lg:text-6xl leading-[1.1]">
+          <h1 className="text-5xl font-black tracking-tight sm:text-6xl lg:text-7xl leading-[1.1]">
             Зарабатывай
-            <span className="text-primary"> с&nbsp;Альфа-Банком</span>
+            <span className="block text-white drop-shadow-lg"> с&nbsp;Альфа-Банком</span>
           </h1>
-          <p className="text-lg text-primary-foreground/70 max-w-lg leading-relaxed">
+          <p className="text-xl text-white/80 max-w-lg leading-relaxed">
             Приглашай клиентов в Альфа-Банк и получай вознаграждение за каждого.
             Простой старт, прозрачные условия, стабильный доход.
           </p>
