@@ -34,7 +34,7 @@ const Header = () => {
             <button
               key={link.href}
               onClick={() => handleClick(link.href)}
-              className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors"
+              className="text-sm font-medium text-muted-foreground hover:text-primary transition-colors"
             >
               {link.label}
             </button>
